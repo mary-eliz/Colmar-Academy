@@ -1,3 +1,4 @@
 # Colmar-Academy
-Here is the link to my github which contains my final project for Colmar-Academy. Enjoy!
+In this section you will find a link to my github page on Colmar-Academy, a fictional academy that I created a website for.
+Enjoy!
 https://github.com/mary-eliz/Colmar-Academy
